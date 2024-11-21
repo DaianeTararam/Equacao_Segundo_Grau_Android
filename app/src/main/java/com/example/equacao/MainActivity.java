@@ -1,3 +1,7 @@
+/*
+*@author: Daiane Tararam
+*RA: 1110482322003
+*/
 package com.example.equacao;
 
 import android.os.Bundle;
