@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Equacao</string>
+    <string name="a">Insira o valor de A</string>
+    <string name="b">Insira o valor de B</string>
+    <string name="c">Insira o valor de C</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="delta">Delta:</string>
+    <string name="x1">X1:</string>
+    <string name="x2">X2:</string>
+    <string name="sem_raizes">A equação não possui raízes reais</string>
+
+</resources>
